@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{AD39AC8E-DF69-4205-9526-CFD4339627C8}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="tower-api/Utilities/EncryptionDecryptionHelper.cs">
+    <Files>
+      <File FileName="tower-api/Controllers/CardController.cs" Line="103" Column="1" />
+      <File FileName="tower-api/Business/Implementations/CardsCreateUseCase.cs" />
+      <File FileName="tower-api/Business/Interfaces/ICardsCreateUseCase.cs" />
+      <File FileName="tower-api/Utilities/AutoMapperProfile.cs" />
+      <File FileName="tower-api/Utilities/EncryptionDecryptionHelper.cs" Line="10" Column="64" />
+      <File FileName="tower-api/Models/Requests/ApiCardCreateRequest.cs" />
+      <File FileName="tower-api/Models/Exceptions/ApiError.cs" />
+      <File FileName="SystemsTest/CardsGetTests.cs" />
+      <File FileName="tower-api/Properties/launchSettings.json" />
+      <File FileName="tower-api/Program.cs" />
+      <File FileName="tower-api/Data/ApplicationDbContext.cs" />
+      <File FileName="tower-api/Repositories/Implementations/CardRepository.cs" />
+      <File FileName="tower-api/appsettings.json" />
+      <File FileName="tower-api-test/Controllers/CardControllerTests.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="tower-api" expanded="True">
+            <Node name="SystemsTest" expanded="True" />
+            <Node name="tower-api" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Requests" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Repositories" expanded="True">
+                <Node name="Implementations" expanded="True" />
+                <Node name="Interfaces" expanded="True" />
+                <Node name="Models" expanded="True" />
+              </Node>
+              <Node name="Utilities" expanded="True">
+                <Node name="EncryptionDecryptionHelper.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="tower-api-test" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.tower-api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
